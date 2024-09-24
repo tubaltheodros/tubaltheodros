@@ -1,22 +1,19 @@
 {
-	"movies": [
+	"Past Jobs": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Company": "Russell Investments",
+			"Role": "Marketing & Data Analyst",
+			"Dates": "6/23 - 9/23"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Company": "iSchool Inclusion Institute",
+			"Role": "Research Data Analyst",
+			"Dates": "6/22 - 7/23"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Company": "Coastal Community Bank",
+			"Role": "Data Science Summer Intern",
+			"Dates": "6/21 - 9/21"
 		}
 	]
 }
